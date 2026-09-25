@@ -34,7 +34,6 @@ coverage
 
 # Vitest
 __screenshots__/
-tests/
 
 # Vite
 *.timestamp-*-*.mjs
